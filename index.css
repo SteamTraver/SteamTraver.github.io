@@ -1,0 +1,15 @@
+html{
+    max-width: 600px;
+    max-height: 1000px;
+    margin: 10px auto;
+    overflow: auto;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 15px black;
+}
+.title{
+    font-family: "Microsoft YaHei",微软雅黑,
+    "MicrosofthengHei",华文细黑,STHeiti,MingLiu;
+    font-size: 1rem;
+}
+
+
