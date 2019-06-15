@@ -11,5 +11,9 @@ html{
     "MicrosofthengHei",华文细黑,STHeiti,MingLiu;
     font-size: 1rem;
 }
-
+li{
+    background-color: blueviolet;
+    display: inline-block;
+    border: 2 solid saddlebrown;
+}
 
