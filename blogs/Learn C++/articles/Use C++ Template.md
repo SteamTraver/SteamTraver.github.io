@@ -77,7 +77,7 @@ int main()
 }
 ```
 
-and the ![output in vscode under MingW64]:(./images/2.jpg)  
+and the ![output in vscode under MingW64]:<https://github.com/SteamTraver/SteamTraver.github.io/blob/dev/blogs/Learn%20C%2B%2B/images/2.jpg>  
 
 ***There comes some questions about these functions:***  
 
